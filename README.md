@@ -20,7 +20,7 @@ Dr.hair
 ## 設計書
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/19I3RIevmrm2QIR5YTIQiBSxjALO82Up600zNCtgEA-w/edit#gid=0>
+<https://docs.google.com/spreadsheets/d/19I3RIevmrm2QIR5YTIQiBSxjALO82Up600zNCtgEA-w/edit?usp=sharing>
 
 
 
